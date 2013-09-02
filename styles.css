@@ -56,7 +56,6 @@ div {
      background-color:#383836;
      height:auto;
      width:1349px;
-     flex-align:center;
      border-bottom: 1px solid #5d5d5c;     
  }
  #nav a:link, #nav a:active, #nav a:visited{
